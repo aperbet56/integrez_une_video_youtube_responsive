@@ -6,7 +6,7 @@ Création d'une page web en HTML5 et CSS3 contenant une vidéo youtube rendu res
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/integrez_une_video_youtube_responsive/
 
 ## Projet développé avec
 
