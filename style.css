@@ -25,4 +25,5 @@ body {
 
 .youtube__responsive iframe {
     aspect-ratio: 16/9;
+    border-radius: 10px;
 }
